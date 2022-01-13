@@ -1,6 +1,6 @@
 {
 	"ip":"Therushgamerz.aternos.me",
-	"port": "25565",
+	"port": "26024",
 	"name": "TheRushGamerz",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
